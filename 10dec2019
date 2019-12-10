@@ -1,0 +1,1000 @@
+ 1038  ls
+ 1039  cd ..
+ 1040  ls
+ 1041  cd ..
+ 1042  ls
+ 1043  cd src
+ 1044  cd client/
+ 1045  cd src
+ 1046  cd proj
+ 1047  cd app
+ 1048  ls
+ 1049  ng component insert
+ 1050  ng g c insert
+ 1051  cd ..
+ 1052  ng new client
+ 1053  ls
+ 1054  cd client
+ 1055  ng g c insert
+ 1056  ng g s product
+ 1057  ng serve
+ 1058  npm i @types/node
+ 1059  ng serve
+ 1060  git status
+ 1061  git checkout -b template-form
+ 1062  git add .
+ 1063  git commit -m added
+ 1064  git checkout -b reactive-form
+ 1065  ./world_war2 75 79
+ 1066  ./dairy_kuripukal 318 319
+ 1067  ./Belgium 434 437
+ 1068  ./Animal_kingdom 245 246
+ 1069  ./around_the_world30_minutes 1586 1590
+ 1070  node parellel.js 
+ 1071  cd ..
+ 1072  ls pa*
+ 1073  npm init
+ 1074  npm install async --save-dev
+ 1075  cd node_modules/
+ 1076  ls
+ 1077  cd async/
+ 1078  ls
+ 1079  cat all.js 
+ 1080  ls
+ 1081  cat dir.js 
+ 1082  cd ..
+ 1083  ls
+ 1084  cd asyncParallel/
+ 1085  ls
+ 1086  rm *.txt
+ 1087  node parellel.js 
+ 1088  ls
+ 1089  cp parellel.js f1.txt f2.txt f3.txt
+ 1090  cp parellel.js f3.txt 
+ 1091  ls
+ 1092  cp parellel.js f1.txt 
+ 1093  cp parellel.js f2.txt 
+ 1094  node parellel.js 
+ 1095  ls
+ 1096  mv f3.txt f
+ 1097  node parellel.js 
+ 1098  cd ..
+ 1099  cd buffer/
+ 1100  ls
+ 1101  node arrBuffer.js 
+ 1102  kk
+ 1103  node arrBuffer.js 
+ 1104  node arrBuffer1.js 
+ 1105  node buffereg.js 
+ 1106  node example.js 
+ 1107  cd ..
+ 1108  cd event/
+ 1109  node events
+ 1110  node events.js
+ 1111  node events2
+ 1112  cd 
+ 1113  cd Downloads/
+ 1114  mkdir ke
+ 1115  mv xvi*.mp4 ke
+ 1116  ls xvi*.mp4
+ 1117  mv xvi*.mp4 ke
+ 1118  ls xvi*.mp4
+ 1119  mv xvi*.mp4 ke
+ 1120  ls xvi*.mp4
+ 1121  cd test
+ 1122  mkdir test
+ 1123  mkdir test-dec
+ 1124  cd test-dec/
+ 1125  cd /
+ 1126  pwd
+ 1127  ls
+ 1128  cd home/
+ 1129  ls
+ 1130  cd ..
+ 1131  cd usr
+ 1132  ls
+ 1133  cd bin
+ 1134  ls
+ 1135  cd ..
+ 1136  ls
+ 1137  cd ..
+ 1138  cd sbin
+ 1139  ls
+ 1140  cd ..
+ 1141  ls
+ 1142  cd etc
+ 1143  ls
+ 1144  cd mysql
+ 1145  ls
+ 1146  cat my.cnf
+ 1147  cd ..
+ 1148  cd mongo
+ 1149  cd apache2/
+ 1150  ls
+ 1151  cat ports.conf 
+ 1152  cd ..
+ 1153  cd mnt
+ 1154  ls
+ 1155  cd 
+ 1156  sudo fdisk -l
+ 1157  cd 
+ 1158  mkdir c
+ 1159  mkdir win
+ 1160  sudo mount /dev/sda2 win
+ 1161  sudo mount ro /dev/sda2 win
+ 1162  sudo mount -r /dev/sda2 win
+ 1163  cd win
+ 1164  ls
+ 1165  cd ..
+ 1166  cd opt
+ 1167  cd /
+ 1168  cd opt
+ 1169  ls
+ 1170  cd ..
+ 1171  cd var
+ 1172  ls
+ 1173  cd /proc
+ 1174  ls
+ 1175  cat meminfo 
+ 1176  cat cpuinfo
+ 1177  lscpu
+ 1178  cd 
+ 1179  pwd
+ 1180  cd test
+ 1181  cd test-dec/
+ 1182  ls
+ 1183  mkdir 1
+ 1184  ls
+ 1185  cd 1
+ 1186  cd .
+ 1187  cd ..
+ 1188  cd ../../
+ 1189  cd test/test-dec/1
+ 1190  ls
+ 1191  touch f.txt
+ 1192  ls
+ 1193  cd ..
+ 1194  mkdir 2
+ 1195  ls
+ 1196  rmdir 2
+ 1197  ls
+ 1198  rmdir 1
+ 1199  rm -r 1
+ 1200  touch f.txt
+ 1201  ls
+ 1202  rm f.txt 
+ 1203  touch f.txt
+ 1204  ls
+ 1205  cp f.txt f1.txt
+ 1206  ls
+ 1207  mv f.txt r.txt
+ 1208  ls
+ 1209  mkdir fold
+ 1210  ls
+ 1211  mv *.txt fold/
+ 1212  ls
+ 1213  cd fold/
+ 1214  ls
+ 1215  cd ..
+ 1216  cp fold/ fold2
+ 1217  cp -r fold/ fold2
+ 1218  ls
+ 1219  cd fold2
+ 1220  ls
+ 1221  cd ..
+ 1222  cd ~/test
+ 1223  cd ~/usr/bin
+ 1224  cd /usr/bin
+ 1225  cd ~/test
+ 1226  pwd
+ 1227  pushd .
+ 1228  cd /usr/bin
+ 1229  pushd .
+ 1230  cd /proc
+ 1231  pushd .
+ 1232  cd 
+ 1233  popd
+ 1234  ls -al
+ 1235  cd test-dec/
+ 1236  ls -al
+ 1237  cd ..
+ 1238  ls -al
+ 1239  cd test-dec/
+ 1240  ls
+ 1241  touch f1.txt
+ 1242  ls -al
+ 1243  chmod +u x 
+ 1244  chmod u +x
+ 1245  chmod u +x f1.txt 
+ 1246  chmod u+x f1.txt 
+ 1247  ls -al
+ 1248  chmod u-x f1.txt 
+ 1249  ls -al
+ 1250  chmod u-w f1.txt 
+ 1251  ls -al
+ 1252  chmod u-r f1.txt 
+ 1253  ls -al
+ 1254  cat f1.txt 
+ 1255  chmod u+r f1.txt 
+ 1256  cat f1.txt 
+ 1257  ls -al
+ 1258  touch f2.txt
+ 1259  ls -al
+ 1260  chmod 100  f1.txt 
+ 1261  ls -al
+ 1262  chmod 200  f1.txt 
+ 1263  ls -al
+ 1264  chmod 400  f1.txt 
+ 1265  ls -al
+ 1266  chmod 700  f1.txt 
+ 1267  ls -al
+ 1268  chmod 740  f1.txt 
+ 1269  ls -al
+ 1270  chmod 760  f1.txt 
+ 1271  ls -al
+ 1272  chmod 770  f1.txt 
+ 1273  ls -al
+ 1274  chmod 670  f1.txt 
+ 1275  ls -al
+ 1276  df
+ 1277  exit
+ 1278  ls
+ 1279  pwd
+ 1280  scp ./xvd  .
+ 1281  exit
+ 1282  scp ./xvd  .
+ 1283  ls
+ 1284  pwd
+ 1285  exit
+ 1286  pwd
+ 1287  scd test
+ 1288  cd test
+ 1289  cd ServerClient/
+ 1290  ls
+ 1291  node server.js
+ 1292  node server2.js
+ 1293  ls
+ 1294  cd ..
+ 1295  ls
+ 1296  npm install mime
+ 1297  cd ServerClient/
+ 1298  node server2.js
+ 1299  cd ..
+ 1300  ls
+ 1301  cd Typescript/
+ 1302  ls
+ 1303  cd client/
+ 1304  ls
+ 1305  cd dist/
+ 1306  ls
+ 1307  cd client/
+ 1308  ls
+ 1309  cd ..
+ 1310  cd server/
+ 1311  ls
+ 1312  tsc 
+ 1313  ls
+ 1314  cd ..
+ 1315  cd build/
+ 1316  ls
+ 1317  mkdir c
+ 1318  cd ..
+ 1319  mv build/ build123
+ 1320  mkdir build
+ 1321  ls
+ 1322  cd server/
+ 1323  tsc
+ 1324  cd ..
+ 1325  ls
+ 1326  cd build
+ 1327  ls
+ 1328  cd ..
+ 1329  ls
+ 1330  cd client/
+ 1331  ls
+ 1332  cd ..
+ 1333  cd build
+ 1334  ls
+ 1335  node server.js
+ 1336  ls ../../node_modules/
+ 1337  cd ../../
+ 1338  npm i express
+ 1339  cd Typescript/
+ 1340  ls
+ 1341  cd build
+ 1342  node server.js
+ 1343  cd ..
+ 1344  ls
+ 1345  npm i mongoose
+ 1346  cd Typescript/server/
+ 1347  ;s
+ 1348  cd ..
+ 1349  ls
+ 1350  cd build
+ 1351  node server.js
+ 1352  ls
+ 1353  cd ../
+ 1354  cd client/
+ 1355  ls
+ 1356  cd dist/
+ 1357  ls
+ 1358  cd client/
+ 1359  ls
+ 1360  cd ..
+ 1361  ls
+ 1362  cd ..
+ 1363  ls
+ 1364  cd src
+ 1365  ls
+ 1366  cd ..
+ 1367  ng build
+ 1368  cd dist
+ 1369  ls
+ 1370  cd client/
+ 1371  ls
+ 1372  cd ..
+ 1373  ls
+ 1374  cd ..
+ 1375  ls
+ 1376  cd server/
+ 1377  node server.js
+ 1378  ls
+ 1379  cd ..
+ 1380  cd build
+ 1381  node server.js
+ 1382  cd test
+ 1383  cd test-dec/
+ 1384  ls
+ 1385  chrome
+ 1386  google-chrome
+ 1387  ls
+ 1388  vi new.txt
+ 1389  ls
+ 1390  vi new.txt
+ 1391  echo "hello"
+ 1392  echo "hello" 
+ 1393  echo "hello"  >f1.txt
+ 1394  cat f1.txt 
+ 1395  ls
+ 1396  echo " where are you"  >>f1.txt
+ 1397  cat f1.txt 
+ 1398  echo " where are you"  >>new.txt 
+ 1399  cat new.txt 
+ 1400  sudo useradd umesh
+ 1401  cat /etc/passwd
+ 1402  sudo  passwd umesh 
+ 1403  su umesh
+ 1404  ls
+ 1405  ls -al
+ 1406  groupadd group200
+ 1407  groupadd group201
+ 1408  sudo groupadd group201
+ 1409  cat /etc/passwd
+ 1410  cat /etc/groups
+ 1411  cat /etc/group
+ 1412  sudo usermod -a -G group201  umesh 
+ 1413  sudo usermod -a -G group201  geo
+ 1414  cat /etc/group
+ 1415  sudo usermod -a -G geo umesh
+ 1416  su umesh
+ 1417  ls
+ 1418  ls -al
+ 1419  cd fold
+ 1420  ls
+ 1421  ls -al
+ 1422  chmod o-r f1.txt 
+ 1423  ls -al
+ 1424  sudo chown group201 f1.txt 
+ 1425  ls -al
+ 1426  sudo useradd group201
+ 1427  sudo useradd -g group201
+ 1428  sudo adduser umesh1
+ 1429  cd /
+ 1430  cd home/
+ 1431  ls
+ 1432  cd umesh1/
+ 1433  ls -al
+ 1434  cd 
+ 1435  su umesh1
+ 1436  su umesh
+ 1437  clear
+ 1438  ls
+ 1439  awk ‘/you/ {print}’ *.txt
+ 1440  awk '/you/ {print}' *.txt
+ 1441  awk '{print $1,$4}' employee.txt
+ 1442  awk '{print $1,$4}' new.txt
+ 1443  cat new.txt
+ 1444  awk '{print $1,$4}' new.txt
+ 1445  cat new.txt
+ 1446  awk '{print $1}' new.txt
+ 1447  awk '{print $4}' new.txt
+ 1448  awk '{print NR, $NF}' new.txt
+ 1449  su umesh1
+ 1450  sudo useradd umesh2
+ 1451  sudo passwd umesh2
+ 1452  cd /
+ 1453  cd etc
+ 1454  sudo mv shadow shadow123
+ 1455  sudo mv shadow123 shadow
+ 1456  su umesh
+ 1457  sudo -i
+ 1458  su umesh1
+ 1459  ls
+ 1460  cd ..
+ 1461  ls *dec*
+ 1462  cd test
+ 1463  ls
+ 1464  cd typings/
+ 1465  ls
+ 1466  cd globals/
+ 1467  ls
+ 1468  cd mocha/
+ 1469  ls
+ 1470  cd ..
+ 1471  cd node8
+ 1472  cd prog
+ 1473  cd ..
+ 1474  cd prog
+ 1475  ls
+ 1476  cd ..
+ 1477  cd lab-dec/
+ 1478  ls
+ 1479  cd test
+ 1480  ls
+ 1481  node input.js 
+ 1482  node sandboxing.js 
+ 1483  node ms.js 
+ 1484  node readable.js 
+ 1485  node waterfall.js 
+ 1486  ls
+ 1487  sudo npm install htmlparser2
+ 1488  node waterfall.js 
+ 1489  ls
+ 1490  cd Typescript/
+ 1491  ls
+ 1492  cd server/
+ 1493  ls
+ 1494  cat server.ts
+ 1495  cd ..
+ 1496  cd client/
+ 1497  ls
+ 1498  cd src
+ 1499  ls
+ 1500  cd app/
+ 1501  ls
+ 1502  gedit *.ts
+ 1503  cd ..
+ 1504  git clone https://github.com/MrPardeep/angular-extension.git
+ 1505  ls
+ 1506  cd angular-extension/
+ 1507  npm i
+ 1508  cd ..
+ 1509  ls
+ 1510  cd angular-extension/
+ 1511  ng serve
+ 1512  ng build
+ 1513  cd ..
+ 1514  git clone https://github.com/JoshDSommer/Emoji-Clippy.git
+ 1515  cd Emoji-Clippy/
+ 1516  npm i
+ 1517  ls
+ 1518  ng serve
+ 1519  ls
+ 1520  bg build
+ 1521  rm -rf node_modules/
+ 1522  cd ..
+ 1523  git clone https://github.com/MrPardeep/angular-extension.git
+ 1524  ls
+ 1525  git clone https://github.com/scotch-io/node-crud-course.git
+ 1526  cd node-crud-course/
+ 1527  ls
+ 1528  npm i
+ 1529  ls
+ 1530  node server.js 
+ 1531  gedit server.js 
+ 1532  node server.js 
+ 1533  ls
+ 1534  cd ..
+ 1535  ls
+ 1536  cd angular-extension/
+ 1537  rm -rf node_modules/
+ 1538  ls Un*
+ 1539  ls un*
+ 1540  ls un*.html
+ 1541  sudo useradd s
+ 1542  sudo userdel s
+ 1543  sudo useradd s
+ 1544  sudo userdel s
+ 1545  find /var/spool/at/ -name "[^.]*" -type f -user geo
+ 1546  lprm geo
+ 1547  find / -user geo
+ 1548  find . -user geo
+ 1549  find /home/geo/test/test-dec/ -user geo
+ 1550  cat /etc/shadow
+ 1551  sudo cat /etc/shadow
+ 1552  sudo cat /etc/shadow >l
+ 1553  gedit l
+ 1554  sudo cat /etc/shadow >l
+ 1555  gedit l
+ 1556  google-chrome&
+ 1557  cd test
+ 1558  cd test-dec/
+ 1559  ls
+ 1560  ls -al
+ 1561  cat /etc/group
+ 1562  ls
+ 1563  grep -i "UNix" geekfile.txt
+ 1564  grep -i "you" new.txt
+ 1565  cat new.txt
+ 1566  grep -i "you" new.txt
+ 1567  grep -i "hai" new.txt
+ 1568  grep -i "you" new.txt
+ 1569  grep -i "you" *.*
+ 1570  grep -c "you" new.txt
+ 1571  grep -c "you" *.*
+ 1572  cd ..
+ 1573  grep -c "you" *.* -R 
+ 1574  grep -c "you" ./test-dec/ -R 
+ 1575  cd ..
+ 1576  grep -c "you" ./test/ -R 
+ 1577  cd test
+ 1578  ls
+ 1579  grep -c "you" ./test/ -R 
+ 1580  grep -c "hai" ./test/ -R 
+ 1581  grep -c "a" ./test/ -R 
+ 1582  grep -w "a" ./test/ -R 
+ 1583  cd test-dec
+ 1584  grep -w "a" *.*  -R 
+ 1585  grep -w "hai" *.*  -R 
+ 1586  grep -i "hai" *.*  -R 
+ 1587  grep -w "hai" *.*  -R 
+ 1588  grep -n "hai" *.*  -R 
+ 1589  grep -n "HAI" *.*  -R 
+ 1590  grep -n "hai" *.*  -R 
+ 1591  grep -o "hai" *.*  -R 
+ 1592  grep -n "hai" *.*  -R 
+ 1593  grep -o "hai" *.*  -R 
+ 1594  grep -l "hai" *.*  -R 
+ 1595  grep -l -c "hai" *.*  -R 
+ 1596  grep -l   "hai" *.*  -R 
+ 1597  find -type f name new.txt
+ 1598  find -type f -name new.txt
+ 1599  find -type f -name new.txt | grep -c 'hai' *.*
+ 1600  find -type f -name new.txt | grep -c 'hai' 
+ 1601  find -type f -name new.txt | grep -i 'hai' 
+ 1602  find -type f -name new.txt
+ 1603  ls
+ 1604  find -type f -name new.txt
+ 1605  find -type d -name new.txt
+ 1606  find -type d -name fold
+ 1607  cd ..
+ 1608  find -type d -name new.txt
+ 1609  find  . -type d -name new.txt
+ 1610  find   -type f -name new.txt
+ 1611  cd ..
+ 1612  find   -type f -name new.txt
+ 1613  find  test  -type f -name new.txt
+ 1614  find  test/test-dec  -type f -name new.txt
+ 1615  find  test/test-dec  -type f -name *.txt
+ 1616  find  test/test-dec  -type f -name new.txt
+ 1617  find  bin  -type f -name ls
+ 1618  find  /bin  -type f -name ls
+ 1619  find  /usr  -type f -name code
+ 1620  find  /usr  -type d -name lib
+ 1621  ps
+ 1622  To invert the search for patterns
+ 1623  grep -v “you” *.txt
+ 1624  cd 
+ 1625  ps -el
+ 1626  ps -el | grep mysql
+ 1627  ps -el | grep apache
+ 1628  cd test
+ 1629  cd test-dec
+ 1630  awk ‘/you/ {print}’ *.txt
+ 1631  awk '/you/ {print}' *.txt
+ 1632  awk '/you/ {print}' new.txt
+ 1633  awk '/you/ ' new.txt
+ 1634  awk 'you ' new.txt
+ 1635  awk '/you/ ' new.txt
+ 1636  ls
+ 1637  cat new.txt
+ 1638  awk '{print $1,$4}' employee.txt
+ 1639  awk '{print $1,$4}' new.txt
+ 1640  awk '{print $4}' new.txt
+ 1641  awk '{print $1}' new.txt
+ 1642  awk '{print $3}' new.txt
+ 1643  awk '{print $2}' new.txt
+ 1644  awk ‘{print NR, $NF}’ emp.txt,  $NF represents last fields
+ 1645  awk ‘{print NR, $NF}’ new.txt,  $NF represents last fields
+ 1646  awk '{print NR, $NF}' new.txt,  $NF represents last fields
+ 1647  ls
+ 1648  awk '{print NR, $NF}' ./new.txt,  $NF represents last fields
+ 1649  awk '{print NR, $NF}' ./new.txt,  $NF 
+ 1650  awk '{print NR, $NF}' new.txt,  $NF 
+ 1651  ls
+ 1652  awk '{print NR, $NF}' new2.txt,  $NF 
+ 1653  ls
+ 1654  cat new.txt
+ 1655  awk '{print NR, $NF}' new.txt,  $NF 
+ 1656  gedit n.txt
+ 1657  gedit p.awk
+ 1658  awk -f p.awk n.txt
+ 1659  cat n.txt
+ 1660  gedit  n.txt p.awk 
+ 1661  awk -f p1.awk n.txt
+ 1662  cat p1.awk 
+ 1663  ls
+ 1664  zip output.zip f1.txt 
+ 1665  ls
+ 1666  zip output.zip f1.txt f2.txt new1.txt 
+ 1667  mkdir out
+ 1668  mv output.zip out
+ 1669  cd out
+ 1670  ls
+ 1671  unzip output.zip 
+ 1672  ls
+ 1673  cat f1.txt 
+ 1674  cd ..
+ 1675  ls
+ 1676  zip -u file.zip filenamemkdir test1
+ 1677  zip output.zip f1.txt f2.txt new1.txt 
+ 1678  zip -u output.zip  n.txt 
+ 1679  vi f1.txt 
+ 1680  zip -u output.zip  f1.txt 
+ 1681  ls
+ 1682  cd fold
+ 1683  ls
+ 1684  cd ..
+ 1685  zip  output.zip  fold
+ 1686  cd out
+ 1687  ls
+ 1688  rm -rf *
+ 1689  cd ..
+ 1690  mv output.zip out
+ 1691  ls
+ 1692  cd out
+ 1693  ls
+ 1694  unzip output.zip
+ 1695  cd fold/
+ 1696  ls
+ 1697  cd ..
+ 1698  ls
+ 1699  zip output.zip *.txt fold -R
+ 1700  zip output.zip *.txt fold -R -x f2.txt
+ 1701  find
+ 1702  find | exec cat $1
+ 1703  clear
+ 1704  find / -type f -exec grep -i 'the brown dog' {} \;
+ 1705  find . -type f -exec grep -i 'the brown dog' {} \;
+ 1706  find . -type f -exec grep -i 'hai' {} \;
+ 1707  ls
+ 1708  find . -type f -name new.txt -exec grep -i 'hai' {} \;
+ 1709  ls
+ 1710  find . -type f -name n.txt -exec grep -i 'hai' {} \;
+ 1711  find . -type f -name n.txt -exec grep -i '2' {} \;
+ 1712  find . -type f -name n.txt -exec grep -i '4' {} \;
+ 1713  find . -type f -name n.txt -exec grep -i '4' {} ;
+ 1714  find . -type f -name n.txt -exec grep -i '4' {} \;
+ 1715  find . -type f -name n.txt -exec grep -i '4'  \;
+ 1716  find /etc/ -type f -name n.txt -exec grep -i '4' {} \;
+ 1717  sudo find /etc/ -type f -name n.txt -exec grep -i '4' {} \;
+ 1718  sudo find /etc/ -type f -name n.txt -exec cat  {} \;
+ 1719  sudo find /etc/ -type f -name n.txt -exec grep -i '4' {} \;
+ 1720  find . -type f -name n.txt -exec grep -i '4'  \;
+ 1721  find . -type f -name n.txt -exec grep -i 'hai'  \;
+ 1722  find . -type f -name new.txt -exec grep -i 'hai'  \;
+ 1723  find . -type f -name new.txt -exec grep -i 'hai' {}  \;
+ 1724  find . -type f -name new.txt -exec cat 'hai' {}  \;
+ 1725  find . -type f -name new.txt -exec cat {}  \;
+ 1726  find . -type f -name *.txt -exec cat {}  \;
+ 1727  find . -type f -name new.txt -exec cat {}  \;
+ 1728  find ../test-dec -type f -name new.txt -exec cat {}  \;
+ 1729  find ../test-dec -type f -name *.txt -exec cat {}  \;
+ 1730  find ../test-dec -type f  -exec cat {}  \;
+ 1731  cd 
+ 1732  cd Desktop/
+ 1733  cd txt
+ 1734  ls
+ 1735  gedit unixcommand.txt 
+ 1736  vi n.txt p.awk 
+ 1737  cd 
+ 1738  cd test
+ 1739  cd test-dec
+ 1740  ls
+ 1741  cd /
+ 1742  cd etc
+ 1743  sudo gedit sudoers
+ 1744  cd 
+ 1745  cd node
+ 1746  cd node_mongodb
+ 1747  ls
+ 1748  cd ..
+ 1749  mongo
+ 1750  ./world_war2 80 82
+ 1751  ./Belgium 437 439
+ 1752  cd 
+ 1753  ls *.sh
+ 1754  cd 
+ 1755  cd youtube
+ 1756  cd safari
+ 1757  cd Safari/
+ 1758  ls
+ 1759  find -type f -name *.sh
+ 1760  df
+ 1761  ls
+ 1762  cd Around_the_world30_minutes/
+ 1763  ls
+ 1764  ./around_the_world30_minutes  1589 1590
+ 1765  ls
+ 1766  cd test
+ 1767  ls
+ 1768  gedit promise.js
+ 1769  cat promise.js
+ 1770  ls
+ 1771  ls pro*
+ 1772  cd ..
+ 1773  ls
+ 1774  cd test
+ 1775  ls
+ 1776  node promise.js 
+ 1777  ./ffmpeg 00213 00215
+ 1778  ls *mp4
+ 1779  ls *mp4 -al
+ 1780  chmod 700  *mp4 
+ 1781  ls
+ 1782  ls *mp4 -al
+ 1783  chmod 700  *mp4 
+ 1784  ls *mp4 -al
+ 1785  ./MTS_ffmpeg_mp4 210 230
+ 1786  chmod 700 MTS_ffmpeg_mp4 
+ 1787  ls *mp4 -al
+ 1788  ./MTS_ffmpeg_mp4 210 230
+ 1789  MTS_ffmpeg_mp4 210 230
+ 1790  MTS_ffmpeg_mp4 231 275
+ 1791  tsc
+ 1792  cd 
+ 1793  cd Downloads/
+ 1794  mkdir ke
+ 1795  mv xvi*.mp4 ke
+ 1796  ls xvi*
+ 1797  mv xvi*.mp4 ke
+ 1798  df
+ 1799  cd ..
+ 1800  find -type f -name *.sh
+ 1801  cd folder/gym/
+ 1802  cat ffmpeg_mts_mp4.sh 
+ 1803  cd 
+ 1804  sudo cp MTS_ffmpeg_mp4 /usr/bin
+ 1805  cd /usr/bin
+ 1806  sudo chmod 700 MTS_ffmpeg_mp4 
+ 1807  sudo chmod 777 MTS_ffmpeg_mp4 
+ 1808  ls MTS_ffmpeg_mp4  -al
+ 1809  top
+ 1810  mongo
+ 1811  sudo mongod.sh
+ 1812  what is my ip
+ 1813  whatis myip
+ 1814  what is myip
+ 1815  what is my ip
+ 1816  ip
+ 1817  ipaddress
+ 1818  ifconfig
+ 1819  source
+ 1820  source ~/.bashrc 
+ 1821  cd test
+ 1822  ls
+ 1823  s.sh
+ 1824  cd 
+ 1825  cd lab-dec/
+ 1826  ls
+ 1827  cd test
+ 1828  ls
+ 1829  cd 
+ 1830  cd ex
+ 1831  cd proj
+ 1832  ls
+ 1833  cat server.js
+ 1834  ls
+ 1835  cd client
+ 1836  ls
+ 1837  cd src
+ 1838  ls
+ 1839  cd app
+ 1840  ls
+ 1841  cd ..
+ 1842  ls
+ 1843  cd app
+ 1844  ls
+ 1845  gedit app.component.html 
+ 1846  cd insert/
+ 1847  ls
+ 1848  sudo mongod.sh
+ 1849  mongo
+ 1850  google-chrome&
+ 1851  cd test
+ 1852  cd test-dec
+ 1853  ifconfig
+ 1854  ipaddress
+ 1855  ping http://www.google.com
+ 1856  ping https://www.google.com
+ 1857  ping www.google.com
+ 1858  cd 
+ 1859  cd Desktop/
+ 1860  ln co /usr/bin/code
+ 1861  ln -s co /usr/bin/code
+ 1862  ln -s  /usr/bin/code cod
+ 1863  ls cod -al
+ 1864  ./cod
+ 1865  ls /usr/bin/google-chrome
+ 1866  ln -s  /usr/bin/google-chrome chrome
+ 1867  ln -al
+ 1868  ls -al
+ 1869  ls chrome -al
+ 1870  cd 
+ 1871  ls *.txt
+ 1872  ssh umesh1@127.0.0.1
+ 1873  ls
+ 1874  ls *.txt
+ 1875  scp ./difference.txt umesh1@127.0.0.1:~/
+ 1876  scp umesh1@127.0.0.1:~/f.txt .
+ 1877  cd test
+ 1878  cd test-dec/
+ 1879  gedit script.sh
+ 1880  ls script.sh -al
+ 1881  chmod u+x script.sh 
+ 1882  ls script.sh -al
+ 1883  ./script.sh 
+ 1884  gedit condition.sh
+ 1885  chmod u+x condition.sh 
+ 1886  ./condition.sh 
+ 1887  gedit condition.sh&
+ 1888  #!/bin/sh
+ 1889  set -x
+ 1890  echo -n "Can you write device drivers? "
+ 1891  read answer
+ 1892  ps -el | grep sshd
+ 1893  sudo kill 1978
+ 1894  ps -el | grep sshd
+ 1895  ls
+ 1896  g
+ 1897  ls
+ 1898  gzip n.txt
+ 1899  ls
+ 1900  su umesh1
+ 1901  cd 
+ 1902  cd test
+ 1903  ls
+ 1904  cd test-dec/
+ 1905  ls
+ 1906  rm -rf node_modules/
+ 1907  rm hero.tar.gz 
+ 1908  cd ..
+ 1909  cd lab-dec/
+ 1910  ls
+ 1911  mkdir node-easy-notes-ap
+ 1912  cd node-easy-notes-ap/
+ 1913  ls
+ 1914  npm init
+ 1915  npm install express  body-parser mongoose --save
+ 1916  gedit server.js
+ 1917  mkdir config
+ 1918  gedit config.js
+ 1919  cd ..
+ 1920  git clone https://github.com/callicoder/node-easy-notes-app.git
+ 1921  cd node-*pp
+ 1922  ls
+ 1923  npm i
+ 1924  node server.js 
+ 1925  ls
+ 1926  cd config/
+ 1927  ls
+ 1928  gedit database.config.js 
+ 1929  cd ..
+ 1930  node server.js 
+ 1931  sudo apt install openssh-server
+ 1932  ps -el | grep sshd
+ 1933  ps -el | grep mysqld
+ 1934  ls
+ 1935  cd 
+ 1936  ls *.gz
+ 1937  cp hero.tar.gz test/test-dec/
+ 1938  cd test/test-dec/
+ 1939  ls
+ 1940  tar -xvf hero.tar.gz 
+ 1941  ls
+ 1942  gedit ~/.bashrc
+ 1943  echo $JAVA_HOME
+ 1944  echo $PATH
+ 1945  export PATH=$PATH:.
+ 1946  echo $PATH
+ 1947  echo $PATH >pa
+ 1948  gedit pa
+ 1949  export PATH=$PATH:~/test/test-dec
+ 1950  echo $PATH 
+ 1951  ls
+ 1952  ls -al
+ 1953  git status
+ 1954  cd client
+ 1955  ls
+ 1956  git status
+ 1957  git add .
+ 1958  git commit -m 'reactive form'
+ 1959  git checkout master 
+ 1960  git branch -a
+ 1961  git checkout template-form 
+ 1962  ng g c disp
+ 1963  cd ..
+ 1964  node server.js
+ 1965  cd client
+ 1966  ls
+ 1967  ng serve
+ 1968  ls
+ 1969  ng serve
+ 1970  cd ..
+ 1971  ./around_the_world30_minutes 1591 1594
+ 1972  ls
+ 1973  ./around_the_world30_minutes 1591 1594
+ 1974  df
+ 1975  ./around_the_world30_minutes 1591 1594
+ 1976  ./Belgium 439 440
+ 1977  ./dairy_kuripukal 318  318
+ 1978  ./dairy_kuripukal 318  319
+ 1979  ./word_war2 83 87
+ 1980  ls
+ 1981  ./world_war2 83 88
+ 1982  ls
+ 1983  cd models
+ 1984  ls
+ 1985  cat Book.js 
+ 1986  cd ..
+ 1987  cd src
+ 1988  ls
+ 1989  cd app
+ 1990  ls
+ 1991  cd book
+ 1992  ls
+ 1993  cd ..
+ 1994  ls
+ 1995  ng serve
+ 1996  ls
+ 1997  npm i
+ 1998  ls
+ 1999  bg build
+ 2000  ng build
+ 2001  mkdir git
+ 2002  cd git
+ 2003  ls
+ 2004  ls -al
+ 2005  git -version
+ 2006  git --version
+ 2007  git init
+ 2008  ls
+ 2009  ls -al
+ 2010  cd .git/
+ 2011  ls
+ 2012  cd ..
+ 2013  ls
+ 2014  touch f1.txt
+ 2015  git status
+ 2016  git add f1.txt 
+ 2017  git status
+ 2018  git commit -m 'file added'
+ 2019  git status
+ 2020  touch f2.txt
+ 2021  git status
+ 2022  git add f2.txt 
+ 2023  git commit -m '2nd file added'
+ 2024  git status
+ 2025  git log
+ 2026  ls
+ 2027* git config --global user.name 
+ 2028  ls
+ 2029  git log
+ 2030  ls
+ 2031  git checkout 071023fddcfb9acdfc857c3fff2115df8ae26eb1
+ 2032  ls
+ 2033  git log
+ 2034  git checkout master 
+ 2035  git log
+ 2036  history
+ 2037  history >10dec2019
